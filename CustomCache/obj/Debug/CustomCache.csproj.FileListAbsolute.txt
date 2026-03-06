@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CustomCache\CustomCache\obj\Debug\CustomCache.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CustomCache\CustomCache\obj\Debug\CustomCache.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CustomCache\CustomCache\bin\Debug\CustomCache.exe.config
+C:\Users\user\source\repos\CustomCache\CustomCache\bin\Debug\CustomCache.exe
+C:\Users\user\source\repos\CustomCache\CustomCache\bin\Debug\CustomCache.pdb
+C:\Users\user\source\repos\CustomCache\CustomCache\obj\Debug\CustomCache.exe
+C:\Users\user\source\repos\CustomCache\CustomCache\obj\Debug\CustomCache.pdb
